@@ -2,8 +2,8 @@
 
 using namespace std;
 int main(){
-  int x,y=0;
-  float av=0;
+  double x,y=0;
+  double av=0;
   cout << "Enter 2 numbers"<< endl;
   cin >> x>>y;
   cout <<"your numbers are " <<x <<" and " <<y <<endl;
